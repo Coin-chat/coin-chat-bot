@@ -1,0 +1,6 @@
+!.config_secret/
+.media/
+.static_root/
+.git/
+.idea/
+tests/
