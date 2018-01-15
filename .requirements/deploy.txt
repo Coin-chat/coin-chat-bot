@@ -1,0 +1,3 @@
+-r base.txt
+
+django-storages==1.6.5

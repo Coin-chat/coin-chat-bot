@@ -1,0 +1,10 @@
+django==1.11
+pytz==2017.2
+olefile==0.44
+beautifulsoup4==4.6.0
+selenium==3.8.0
+psycopg2==2.7.3.2
+django-kronos==1.0
+djangorestframework==3.7.1
+requests==2.9.1
+telepot==12.5

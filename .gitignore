@@ -3,7 +3,6 @@ reated by https://www.gitignore.io/api/vim,linux,macos,python,django,pycharm,ela
 ### custom ###
 .media/
 .static_root/
-.requirements/
 .config_secret/
 .idea/
 ghostdriver.log

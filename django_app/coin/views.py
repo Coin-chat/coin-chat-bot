@@ -2190,3 +2190,5 @@ def keyboard(request):
     }
     data = json.dumps(data, ensure_ascii=False)
     return HttpResponse(data, content_type='application/json')
+
+
